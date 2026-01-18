@@ -27,7 +27,7 @@ Sensors, Measurements and Data Acquisition (MSE252) – Fall 2025
 Faculty of Engineering, MSA University
 
 ## Supervision
-Assoc. Prof. Dr. Mohamed Atef Ismail  
+Assoc. Prof. Dr. Mohamed Atef Kamel  
 Eng. Ziena Mahmoud,
 Eng. Mariam Amro
 
