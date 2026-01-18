@@ -28,7 +28,7 @@ Faculty of Engineering, MSA University
 
 ## Supervision
 Assoc. Prof. Dr. Mohamed Atef Ismail  
-Eng. Ziena Mahmoud
+Eng. Ziena Mahmoud,
 Eng. Mariam Amro
 
 ## Authors
